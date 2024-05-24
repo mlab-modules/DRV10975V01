@@ -9,11 +9,11 @@ homepage: true
 image_title: /doc/gen/img/DRV10987V01-top.png
 images:
 - tools/measurements/df45l024053-a2_slow.png
-- tools/measurements/df45l024053-a2_fast.png
-- tools/measurements/df45m024053-a2_fast.png
 - tools/measurements/df45m024053-a2_slow.png
-- doc/gen/img/DRV10987V01-bottom.png
+- tools/measurements/df45m024053-a2_fast.png
+- tools/measurements/df45l024053-a2_fast.png
 - doc/gen/img/DRV10987V01-top.png
+- doc/gen/img/DRV10987V01-bottom.png
 - doc/gen/DRV10987V01-schematic.svg
 - doc/gen/img/DRV10987V01-top.svg
 - doc/gen/img/DRV10987V01-bottom.svg
@@ -39,4 +39,4 @@ tags:
 - pcb
 - drv10987
 title: DRV10987V01
-updated: '2023-09-17T11:47:34.288674+00:00'
+updated: '2024-05-24T18:22:50.627237+00:00'
