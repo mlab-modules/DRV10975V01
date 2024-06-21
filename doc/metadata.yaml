@@ -1,24 +1,26 @@
-description: MLAB DRV10987V01 sensorless operation driver of BLDC and PMSM motors
-  based on DRV10987 controller from TexasInstruments.
+description: Sensorless driver of BLDC and PMSM motors based on DRV10987 controller.
 github_branch: DRV10987V01A
-github_description: MLAB DRV10987V01 sensorless operation driver of BLDC and PMSM
-  motors based on DRV10987 controller from TexasInstruments.
+github_description: Sensorless driver of BLDC and PMSM motors based on DRV10987 controller.
 github_repo: DRV10987V01
 github_url: https://github.com/mlab-modules/DRV10987V01
 homepage: true
 image_title: /doc/gen/img/DRV10987V01-top.png
 images:
-- tools/measurements/df45l024053-a2_slow.png
-- tools/measurements/df45m024053-a2_slow.png
-- tools/measurements/df45m024053-a2_fast.png
-- tools/measurements/df45l024053-a2_fast.png
 - doc/gen/img/DRV10987V01-top.png
 - doc/gen/img/DRV10987V01-bottom.png
+- tools/measurements/MN4006_slow.png
+- tools/measurements/df45m024053-a2_fast.png
+- tools/measurements/MN5006_fast.png
+- tools/measurements/MN4006_fast.png
+- tools/measurements/df45l024053-a2_slow.png
+- tools/measurements/df45l024053-a2_fast.png
+- tools/measurements/MN5006_slow.png
+- tools/measurements/df45m024053-a2_slow.png
 - doc/gen/DRV10987V01-schematic.svg
 - doc/gen/img/DRV10987V01-top.svg
 - doc/gen/img/DRV10987V01-bottom.svg
-- hw/cam_profi/assembly/DRV10987V01-assembly_page_01.svg
 - hw/cam_profi/assembly/DRV10987V01-assembly_page_02.svg
+- hw/cam_profi/assembly/DRV10987V01-assembly_page_01.svg
 mark: 80
 mod_ibom: hw/cam_profi/DRV10987V01-ibom.html
 mod_scheme: doc/gen/DRV10987V01-schematic.pdf
@@ -39,4 +41,4 @@ tags:
 - pcb
 - drv10987
 title: DRV10987V01
-updated: '2024-05-24T18:22:50.627237+00:00'
+updated: '2024-06-21T18:51:41.166215+00:00'
