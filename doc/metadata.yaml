@@ -6,6 +6,8 @@ github_url: https://github.com/mlab-modules/DRV10987V01
 homepage: true
 image_title: /doc/gen/img/DRV10987V01-top.png
 images:
+- doc/DRV.jpg
+- doc/DRV-small.jpg
 - doc/gen/img/DRV10987V01-top.png
 - doc/gen/img/DRV10987V01-bottom.png
 - tools/measurements/MN4006_slow.png
@@ -41,4 +43,4 @@ tags:
 - pcb
 - drv10987
 title: DRV10987V01
-updated: '2024-07-03T20:33:00.027354+00:00'
+updated: '2024-07-09T00:27:25.373172+00:00'
