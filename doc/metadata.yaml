@@ -4,7 +4,7 @@ github_description: Sensorless driver of BLDC and PMSM motors based on DRV10987 
 github_repo: DRV10987V01
 github_url: https://github.com/mlab-modules/DRV10987V01
 homepage: true
-image_title: /doc/gen/img/DRV10987V01-top.png
+image_title: doc/DRV-small.jpg
 images:
 - doc/DRV.jpg
 - doc/DRV-small.jpg
