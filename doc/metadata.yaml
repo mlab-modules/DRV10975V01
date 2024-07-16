@@ -9,13 +9,19 @@ images:
 - doc/DRV.jpg
 - doc/DRV-small.jpg
 - tools/measurements/df45l024053-a2_fast.png
+- tools/measurements/Axi2814-20_fast.png
+- tools/measurements/Axi2814-20_slow.png
 - tools/measurements/MN5006_slow.png
+- tools/measurements/Axi2826-10_fast.png
+- tools/measurements/Axi2814-28_slow.png
 - tools/measurements/df45m024053-a2_fast.png
+- tools/measurements/Axi2814-28_fast.png
 - tools/measurements/MN4006_fast.png
 - tools/measurements/df45m024053-a2_slow.png
 - tools/measurements/MN4006_slow.png
 - tools/measurements/MN5006_fast.png
 - tools/measurements/df45l024053-a2_slow.png
+- tools/measurements/Axi2826-10_slow.png
 - doc/gen/img/DRV10987V01-bottom.png
 - doc/gen/img/DRV10987V01-top.png
 - hw/cam_profi/assembly/DRV10987V01-assembly_page_01.svg
@@ -44,4 +50,4 @@ tags:
 - drv10987
 tindie_url: https://www.tindie.com/products/35121/
 title: DRV10987V01
-updated: '2024-07-12T12:44:14.519276+00:00'
+updated: '2024-07-16T20:53:12.824021+00:00'
